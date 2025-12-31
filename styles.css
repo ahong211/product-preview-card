@@ -1,0 +1,29 @@
+:root {
+    --bg-page: hsl(30, 38%, 92%);
+    --bg-card: hsl(0, 0%, 100%);
+
+    --text-color: hsl(228, 12%, 48%);
+    --heading-color: hsl(212, 21%, 14%);
+
+    --primary-accent-color: hsl(158, 36%, 37%);
+    --primary-accent-hover-color: hsl(158, 42%, 18%);
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+}
+
+body {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 0.875rem;
+}
