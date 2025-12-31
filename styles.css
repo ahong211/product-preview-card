@@ -68,6 +68,11 @@ main {
     }
 }
 
+.product-img {
+    width: 100%;
+    height: 100%;
+}
+
 .card-body,
 .text-group {
     display: flex;
