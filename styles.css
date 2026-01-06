@@ -55,8 +55,6 @@ main {
 
 .card {
     display: grid;
-    grid-template-columns: auto;
-    grid-template-rows: auto auto;
     min-width: 21.875rem;
     max-width: 37.5rem;
     width: 70%;
